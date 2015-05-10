@@ -1,1 +1,2 @@
-Text line1
+TEXT LINE1
+Text line2
